@@ -6,7 +6,16 @@
     <description>Recent content in test on Teddy Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 14 Feb 2022 08:06:47 +0800</lastBuildDate><atom:link href="https://kingted77513.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 08:24:47 +0800</lastBuildDate><atom:link href="https://kingted77513.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teddy second</title>
+      <link>https://kingted77513.github.io/blog/second/</link>
+      <pubDate>Tue, 15 Feb 2022 08:24:47 +0800</pubDate>
+      
+      <guid>https://kingted77513.github.io/blog/second/</guid>
+      <description>This is second paper.</description>
+    </item>
+    
     <item>
       <title>Teddy first</title>
       <link>https://kingted77513.github.io/blog/test/</link>
